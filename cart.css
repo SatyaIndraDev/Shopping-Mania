@@ -1,0 +1,530 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    /* background: b; */
+    /* background-color: #f1f3f6; */
+}
+.parent{
+    display: flex;
+    width: 90%;
+    /* border: solid; */
+    height: 100%;
+    margin: auto;
+    justify-content: space-between;
+    /* padding: 20px; */
+   
+}
+.child1{
+    /* border:solid; */
+    width: 60%;
+
+}
+.card{
+    /* border: solid red; */
+    /* height: 30%; */
+    display: flex;
+    width: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 10px;
+    /* justify-content: space-between; */
+}
+.cardimg{
+    /* border: solid yellow; */
+    width: 20%;
+    /* height: 100px; */
+
+}
+.cardimg img{
+    width: 100%;
+    height: 150px;
+    /* margin-right: 30px; */
+}
+.address{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    /* border: red solid; */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 10px;
+}
+.btndiv{
+    height: 30px;
+    /* border: red solid; */
+    margin-top: 30px;
+    margin-right: 30px;
+}
+.btndiv button{
+    height: 30px;
+    /* border: none; */
+    background-color: white;
+    border: 1px solid #bac0ca;
+    width: 80px;
+    cursor: pointer;
+    color: #2874f0;
+}
+
+.carddet{
+    /* border: solid blue; */
+    margin-left: 10px;
+    width: 70%;
+    padding: 10px;
+}
+.child2{
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 25%;
+    padding: 15px;
+    /* margin-left: 10px ; */
+    
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+}
+.discount{
+    display: flex;
+    justify-content: space-between;
+}
+.delcharge{
+    display: flex;
+    justify-content: space-between;
+}
+.totalamount{
+    display: flex;
+    justify-content: space-between;
+}
+.discprice{
+    color: #2874f0;
+    font-weight: 600;
+}
+.carddelivery{
+    display: flex;
+    justify-content: space-between;
+    height: 36px;
+}
+.security
+    {
+        width: 100%;
+        height: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+        color: #878787;
+        margin: 10% 0% 0% 1%;
+        display: flex;
+    }
+    .div3{
+        /* border: solid; */
+        justify-content: end;
+        display: flex;
+        height: 40px;
+        width: 100%;
+        margin-top: 10px;
+        
+    }
+    .div3 button{
+        height: 40px;
+        width: 250px;
+        border: #fb641b;
+        background-color: #fb641b;
+        color: white;
+        /* font-weight: 600; */
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .parent1{
+        margin: auto;
+        /* border: solid; */
+        width: 90%;
+        height: 100%;
+
+    }
+    .addbtn{
+        background-color: white;
+        border: none;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+    .addbtn:hover{
+        color:#2874f0
+    }
+    #footer
+    {
+        display: flex;
+        background-color: #F1F3F6;
+        width: 100%;
+        height: 160px;
+        color: #565656;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        box-sizing: border-box;
+        padding-left: 100px;
+        padding-top: 50px;
+        margin-top: 40px;
+    }
+    #fut1{
+        /* border: solid; */
+        height: 50px;
+        /* width: 30%; */
+    }
+    #fut2{
+        /* border: solid; */
+        margin-left: 9%;
+        height: 50px;
+        /* width: 30%; */
+    }
+   
+/* ---------------------medium screen---------- */
+    @media  screen and (min-width:601px) and (max-width:768px) {
+        .parent{
+            display: flex;
+            margin: none;
+            width: 100%;
+          height: 100%;
+            
+            
+           
+        }
+        .child1{
+            
+            width: 60%;
+            
+        }
+        .card{
+            
+            height: 50%;
+            display: flex;
+            width: 100%;
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+            
+        }
+        .cardimg{
+            /* border: solid yellow; */
+            width: 30%;
+            /* height: 100px; */
+        
+        }
+        .cardimg img{
+            width: 100%;
+            height: 150px;
+            /* margin-right: 30px; */
+        }
+        .address{
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            /* border: red solid; */
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+            /* padding: 10px; */
+        }
+        .btndiv{
+            height: 30px;
+            /* border: red solid; */
+            margin-top: 30px;
+            margin-right: 30px;
+        }
+        .btndiv button{
+            height: 30px;
+            /* border: none; */
+            background-color: white;
+            border: 1px solid #bac0ca;
+            width: 80px;
+            cursor: pointer;
+            color: #2874f0;
+        }
+        
+        .carddet{
+            /* border: solid blue; */
+            margin-left: 10px;
+            width: 70%;
+            /* padding: 10px; */
+        }
+        .child2{
+            /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+            width: 30%;
+            height: 100%;
+            /* padding: 15px; */
+            /* margin-left: 10px ; */
+            
+        }
+        .price{
+            display: flex;
+            justify-content: space-between;
+        }
+        .discount{
+            display: flex;
+            justify-content: space-between;
+        }
+        .delcharge{
+            display: flex;
+            justify-content: space-between;
+        }
+        .totalamount{
+            display: flex;
+            justify-content: space-between;
+        }
+        .discprice{
+            color: #2874f0;
+            font-weight: 600;
+        }
+        .carddelivery{
+            display: flex;
+            justify-content: space-between;
+            height: 36px;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+        .security
+            {
+                width: 100%;
+                height: 50px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                font-weight: 600;
+                color: #878787;
+                margin: 10% 0% 0% 1%;
+                display: flex;
+            }
+            .div3{
+                /* border: solid; */
+                justify-content: end;
+                display: flex;
+                height: 40px;
+                width: 100%;
+                margin-top: 10px;
+                
+            }
+            .div3 button{
+                height: 40px;
+                width: 150px;
+                border: #fb641b;
+                background-color: #fb641b;
+                color: white;
+                /* font-weight: 600; */
+                font-size: 16px;
+                cursor: pointer;
+            }
+            .parent1{
+                margin: auto;
+                /* border: solid; */
+                width: 100%;
+        
+            }
+            
+
+            .addbtn{
+                background-color: white;
+                border: none;
+                /* margin-right: 10px; */
+                cursor: pointer;
+            }
+            .addbtn:hover{
+                color:#2874f0
+            }
+
+.totalamount h2{
+    font-size: 20px;
+}
+#footer
+    {
+       display: flex;
+       padding: 0;
+       height: 150px;
+       justify-content: center;
+       align-items: center;
+        
+    }
+    
+    #fut1{
+        /* border: solid; */
+        height: 50px;
+        /* width: 30%; */
+    }
+    #fut2{
+        /* border: solid; */
+        height: 50px;
+        /* width: 30%; */
+    }
+
+
+    } 
+
+
+    @media  screen and (min-width:400px) and  (max-width:600px){
+        .parent{
+            display: flex;
+            flex-direction: column;
+            
+            /* margin: auto; */
+            width: 90%;
+          height: 100%;
+          /* display: none; */
+            
+            
+           
+        }
+        .child1{
+            
+            width: 90%;
+            
+        }
+        .card{
+            
+            height: 40%;
+            display: flex;
+            width: 100%;
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+            
+        }
+        .cardimg{
+            /* border: solid yellow; */
+            width: 20%;
+            /* height: 100px; */
+        
+        }
+        .cardimg img{
+            width: 100%;
+            height: 150px;
+            /* margin-right: 30px; */
+        }
+        .address{
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            /* border: red solid; */
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+            /* padding: 10px; */
+        }
+        .btndiv{
+            height: 30px;
+            /* border: red solid; */
+            margin-top: 30px;
+            margin-right: 30px;
+        }
+        .btndiv button{
+            height: 30px;
+            /* border: none; */
+            background-color: white;
+            border: 1px solid #bac0ca;
+            width: 80px;
+            cursor: pointer;
+            color: #2874f0;
+        }
+        
+        .carddet{
+            /* border: solid blue; */
+            /* margin-left: 10px; */
+            width: 70%;
+            /* padding: 10px; */
+        }
+        .child2{
+            /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+            margin-top: 20px;
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+            width: 50%;
+            margin: auto;
+            height: 100%;
+            /* padding: 15px; */
+            /* margin-left: 10px ; */
+            
+        }
+        .price{
+            display: flex;
+            justify-content: space-between;
+        }
+        .discount{
+            display: flex;
+            justify-content: space-between;
+        }
+        .delcharge{
+            display: flex;
+            justify-content: space-between;
+        }
+        .totalamount{
+            display: flex;
+            justify-content: space-between;
+        }
+        .discprice{
+            color: #2874f0;
+            font-weight: 600;
+        }
+        .carddelivery{
+            display: flex;
+            justify-content: space-between;
+            height: 36px;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+        .security
+            {
+                width: 100%;
+                height: 50px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                font-weight: 600;
+                color: #878787;
+                /* margin: 10% 0% 0% 1%; */
+                display: flex;
+            }
+            .div3{
+                /* border: solid; */
+                justify-content: end;
+                display: flex;
+                height: 40px;
+                width: 100%;
+                /* margin-top: 10px; */
+                
+            }
+            .div3 button{
+                height: 40px;
+                width: 150px;
+                border: #fb641b;
+                background-color: #fb641b;
+                color: white;
+                /* font-weight: 600; */
+                font-size: 16px;
+                cursor: pointer;
+            }
+            .parent1{
+                margin: auto;
+                /* border: solid; */
+                width: 90%;
+        
+            }
+            .addbtn{
+                background-color: white;
+                border: none;
+                /* margin-right: 10px; */
+                cursor: pointer;
+            }
+            .addbtn:hover{
+                color:#2874f0
+            }
+            .child11{
+                width: 100%;
+            }
+
+.totalamount h2{
+    font-size: 20px;
+}
+#footer
+    {
+       display: flex;
+       padding: 0;
+       height: 150px;
+       justify-content: center;
+       align-items: center;
+        
+    }
+    
+    #fut1{
+        /* border: solid; */
+        height: 50px;
+        /* width: 30%; */
+    }
+    #fut2{
+        /* border: solid; */
+        height: 50px;
+        /* width: 30%; */
+    }
+    }
