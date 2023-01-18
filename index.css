@@ -68,3 +68,54 @@ width: 100%;
 #f1 > img{
     width: 566px;
 }
+
+
+
+
+
+/* ******************************STable-2_________________----------------------------------- */
+
+
+#stable-2{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+  /* background-color: rgb(88, 58, 18); */
+   gap: 10px;
+   padding-right: 0px;
+   margin-top: 90px;
+}
+#stable-2 > div>img{
+width: 100%;
+}
+
+/* ******************************STable-2 endddd________________----------------------------------- */
+
+
+
+/* ******************************STable-3________________----------------------------------- */
+#stable-3{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  /* background-color: rgb(88, 58, 18); */
+   gap: 10px;
+   padding-right: 0px;
+   margin-top: 90px;
+}
+#stable-3 > div>img{
+width: 100%;
+}
+/* ******************************STable-3 endddd________________----------------------------------- */
+
+/* ******************************STable-4________________----------------------------------- */
+#stable-4{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+  /* background-color: rgb(88, 58, 18); */
+   gap: 10px;
+   padding-right: 0px;
+   margin-top: 90px;
+}
+#stable-4 > div>img{
+width: 100%;
+}
+/* ******************************STable-4 endddd________________----------------------------------- */
