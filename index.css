@@ -55,8 +55,33 @@ width: 100%;
 /* ------------------------------------------header end----------------------- */
 
 
+/* --------------------------------slider1----------------------- */
+.container{
+   
+    width: 100%;
+    margin: 20px;
+    
+    }
+    .swiper{
+    width: 100%;
+    height:fit-content ;
+    
+    }
+    .swiper-slide img{
+    width: 100%;
+    }
+    .swiper>.swiper-button-prev, .swiper>.swiper-button-next{
+    color:rgb(252, 210, 210),
+    
+    }
+    .swiper .swiper-pagination-bullet-active{
+      background-color: rgb(24, 45, 235);
+    }
 
 
+
+
+/* -----------------------------------slider--1 ends------------------- */
 #f1{
     display: grid;
     grid-template-columns: repeat(3,1fr);
