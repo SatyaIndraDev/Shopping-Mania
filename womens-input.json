@@ -1,0 +1,482 @@
+[
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/z/y/2/m-299tk166-selvia-original-imagbtfgfqdr7h6a-bb.jpeg?q=70",
+        "name": "Selvia",
+        "brandName": "Adidas",
+        "desc": "Women Fit and Flare Pink Dress",
+        "price": 329,
+        "id": "1"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/1/h/g/m-pw333-purshottam-wala-original-imag8zf6ybkmhehy-bb.jpeg?q=70",
+        "name": "Daevish",
+        "brandName": "Adidas",
+        "desc": "Women Maxi Blue Dress",
+        "price": 299,
+        "id": "2"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/y/p/k/l-78-j-turritopsis-original-imagg32yjp7hb6wz.jpeg?q=70",
+        "name": "TURRITOPSIS",
+        "brandName": "Adidas",
+        "desc": "Women Skater Multicolor Dress",
+        "price": 294,
+        "id": "3"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/5/v/d/s-shiv-0129-shivam-creation-original-imaghqfhp7rzmqae.jpeg?q=70",
+        "name": "Shivam Creation",
+        "brandName": "Adidas",
+        "desc": "Women A-line Red, Black Dress",
+        "price": 259,
+        "id": "4"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/p/j/5/s-ep31080-rare-original-imafwyxqnwfmxvx7-bb.jpeg?q=70",
+        "name": "RARE",
+        "brandName": "Adidas",
+        "desc": "Women Gathered Black Dress",
+        "price": 329,
+        "id": "5"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kkmwr680/dress/0/g/a/s-lucy-021022023-purvaja-original-imafzxpcjf9quhyg.jpeg?q=70",
+        "name": "PURVAJA ",
+        "brandName": "Adidas",
+        "desc": "Women Fit and Flare Multicolor Dress",
+        "price": 299,
+        "id": "6"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/e/m/s/l-ut-3001-aask-original-imag7xssbngetywv-bb.jpeg?q=70",
+        "name": "AASK",
+        "brandName": "Adidas",
+        "desc": "Women Pleated Red Dress",
+        "price": 299,
+        "id": "7"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/c/a/c/l-jolly-shree-ramkrishna-fab-original-imag7xqpgrce5egq-bb.jpeg?q=70",
+        "name": "aaliya fashion",
+        "brandName": "Adidas",
+        "desc": "Women A-line Blue Dress",
+        "price": 329,
+        "id": "8"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kq18n0w0/dress/1/x/x/l-siri-turtle-purvaja-original-imag44zqy3zakcny.jpeg?q=70",
+        "name": "PURVAJA",
+        "brandName": "Adidas",
+        "desc": "Women Bodycon Beige Dress",
+        "price": 329,
+        "id": "9"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/h/l/s/m-ruby-161-purvaja-original-imaghkhffptfapqn.jpeg?q=70",
+        "name": "CAZZBA",
+        "brandName": "Adidas",
+        "desc": "Women A-line Purple Dress",
+        "price": 359,
+        "id": "10"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/7/h/2/xxl-dv322-daevish-original-imag7ry5axgtch5r-bb.jpeg?q=70",
+        "name": "HELMONT",
+        "brandName": "Raymond",
+        "desc": "Women Fit and Flare Black Dress",
+        "price": 199,
+        "id": "11"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/2/m/2/l-rddr-011-rudraaksha-original-imafthtxyjgvzahh-bb.jpeg?q=70",
+        "name": "Rudraaksha",
+        "brandName": "Raymond",
+        "desc": "Women Maxi Multicolor Dress With Mask",
+        "price": 269,
+        "id": "12"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kdyus280/dress/u/z/r/xl-3420blkmariamaxi-stylestone-original-imafuqgggec8fgqv.jpeg?q=70",
+        "name": "VTEXX",
+        "brandName": "Raymond",
+        "desc": "Women Maxi Black Dress",
+        "price": 299,
+        "id": "13"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/1/s/t/m-wd1042-1044-leriya-fashion-original-imaghvcfrwpxxuha.jpeg?q=70",
+        "name": "FUBAR",
+        "brandName": "Raymond",
+        "desc": "Women Sheath Brown Dress",
+        "price": 399,
+        "id": "14"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/i/d/z/m-dv320-daevish-original-imag6fxn7fnrggra-bb.jpeg?q=70",
+        "name": "NB NICKY BOY",
+        "brandName": "Raymond",
+        "desc": "Women Ethnic Dress Black Dress",
+        "price": 269,
+        "id": "15"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/g/d/b/xl-rddr-012-rudraaksha-original-imafthtx7pmhabpy-bb.jpeg?q=700",
+        "name": "VTEXX",
+        "brandName": "Raymond",
+        "desc": "Women Maxi Yellow Dress With Mask",
+        "price": 299,
+        "id": "16"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kflftzk0/dress/m/n/g/m-ep3152-rare-original-imafwysgytu9wepf.jpeg?q=70",
+        "name": "FTX",
+        "brandName": "Raymond",
+        "desc": "Women Maxi Maroon, Black Dress",
+        "price": 459,
+        "id": "17"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/4/t/a/xl-164tk2824-selvia-original-imagfuhwektxvjkk-bb.jpeg?q=70",
+        "name": "Jai Textiles",
+        "brandName": "Raymond",
+        "desc": "Women A-line Pink Dress",
+        "price": 379,
+        "id": "18"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/4/s/u/s-dv396-daevish-original-imaghytgsg8khw35.jpeg?q=70",
+        "name": "Daevish",
+        "brandName": "Raymond",
+        "desc": "Women Fit and Flare Grey Dress",
+        "price": 299,
+        "id": "19"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/e/n/j/l-1686-sheetal-associates-original-imaggyumfhfx9mrg.jpeg?q=70",
+        "name": "TIGERSNAKE",
+        "brandName": "Raymond",
+        "desc": "Women Bodycon Purple Dress",
+        "price": 379,
+        "id": "20"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/l4bn5ow0/dress/i/x/t/s-1611-sheetal-associates-original-imagf95zt93nwy9r.jpeg?q=70",
+        "name": "JUGULAR",
+        "brandName": "Turtle",
+        "desc": "Women Bodycon Black Dress",
+        "price": 289,
+        "id": "21"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/x/d/j/xxl-rc-2076-rudraaksha-original-imag6wsmvdgctbha-bb.jpeg?q=70",
+        "name": "Smartees",
+        "brandName": "Turtle",
+        "desc": "Women A-line Multicolor Dress",
+        "price": 279,
+        "id": "22"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/k12go7k0/dress/b/w/q/xs-sfdrss1699-sassafras-original-imafkpypyjhfrzyq.jpeg?q=70",
+        "name": "SASSAFRAS",
+        "brandName": "Turtle",
+        "desc": "Women A-line Black Dress",
+        "price": 307,
+        "id": "23"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/9/m/m/xxl-ruby-144-purvaja-original-imaghkhfpaqnuegc.jpeg?q=70",
+        "name": "FARBOT",
+        "brandName": "Turtle",
+        "desc": "Women Wrap Light Green Dress",
+        "price": 289,
+        "id": "24"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/g/s/g/l-mntwdrs1003-metronaut-original-imagc4q25dgxakz9-bb.jpeg?q=70",
+        "name": "METRONAUT",
+        "brandName": "Turtle",
+        "desc": "Women High Low Blue Dress",
+        "price": 959,
+        "id": "25"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/v/f/q/xs-8924-green-libas-original-imafuhv7hht53sxw-bb.jpeg?q=70",
+        "name": "LIBAS",
+        "brandName": "Turtle",
+        "desc": "Women Ethnic Dress Green Dress",
+        "price": 449,
+        "id": "26"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/8/q/k/l-ep2978a-rare-original-imag8d8mtht59swy-bb.jpeg?q=70",
+        "name": "WROGN",
+        "brandName": "Turtle",
+        "desc": "Women A-line Black Dress",
+        "price": 839,
+        "id": "27"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/r/u/q/xxl-1218-sheetal-associates-original-imag7zu4m8huwph8-bb.jpeg?q=70",
+        "name": "Allen Solly",
+        "brandName": "Turtle",
+        "desc": "Women Bodycon Maroon Dress",
+        "price": 867,
+        "id": "28"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kmds4nk0/dress/n/q/b/s-ep6218b-rare-original-imagfagrz4m5ggzu.jpeg?q=70",
+        "name": "AUSK",
+        "brandName": "Turtle",
+        "desc": "Women Fit and Flare Blue Dress",
+        "price": 759,
+        "id": "29"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/ktrk13k0/dress/1/7/g/xxl-md325-oomph-original-imag7fz5ujuhtn8s.jpeg?q=70",
+        "name": "Oomph",
+        "brandName": "Turtle",
+        "desc": "Women Ruffled Multicolor Dress",
+        "price": 859,
+        "id": "30"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/ksxjs7k0/dress/z/6/j/l-ttj6005777-tokyo-talkies-original-imag6e6sryv4bc4r.jpeg?q=70",
+        "name": "RED TAPE",
+        "brandName": "Adidas",
+        "desc": "Women A-line Red Dress",
+        "price": 924,
+        "id": "31"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/j/2/p/m-170-mint-aahwan-original-imagab7feg5whfhz-bb.jpeg?q=70",
+        "name": "METRONAUT",
+        "brandName": "Adidas",
+        "desc": "Women Fit and Flare Blue Dress",
+        "price": 424,
+        "id": "32"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/dress/j/x/q/xl-sfdrss10603-sassafras-original-imagdzcwkgsbdksy.jpeg?q=70",
+        "name": "HIGHLANDER",
+        "brandName": "Adidas",
+        "desc": "Women Fit and Flare Red Dress",
+        "price": 869,
+        "id": "33"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/5/v/d/s-shiv-0129-shivam-creation-original-imaghqfhp7rzmqae.jpeg?q=70",
+        "name": "BEN MARTIN",
+        "brandName": "Adidas",
+        "desc": "Women A-line Red, Black Dress",
+        "price": 629,
+        "id": "34"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/d/h/f/m-155tk2854a-selvia-original-imagha9zz8kshheh.jpeg?q=70",
+        "name": "AD&AV",
+        "brandName": "Adidas",
+        "desc": "Women Ruffled Brown Dress",
+        "price": 389,
+        "id": "35"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/h/l/s/m-ruby-161-purvaja-original-imaghkhffptfapqn.jpeg?q=70",
+        "name": "ELANHOOD",
+        "brandName": "Raymond",
+        "desc": "Women A-line Purple Dress",
+        "price": 419,
+        "id": "36"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/ktaeqvk0/dress/3/v/t/xl-sn-dr-80-slenor-original-imag6zd4wddgpng5.jpeg?q=70",
+        "name": "CYPHUS",
+        "brandName": "Raymond",
+        "desc": "Women A-line Brown Dress",
+        "price": 399,
+        "id": "37"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kmds4nk0/dress/8/h/c/xl-ep6218a-rare-original-imagfagrygprdtbv.jpeg?q=70",
+        "name": "FLYING MACHINE",
+        "brandName": "Raymond",
+        "desc": "Women Fit and Flare Blue Dress",
+        "price": 999,
+        "id": "38"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/b/u/l/xl-dv226-daevish-original-imagb8hrxnfjmfeh-bb.jpeg?q=70",
+        "name": "KILLER",
+        "brandName": "Raymond",
+        "desc": "Women Skater Blue Dress",
+        "price": 1049,
+        "id": "39"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/z/e/h/m-gr5991-multi-harpa-original-imafutftght38gh6-bb.jpeg?q=70",
+        "name": "Spykar",
+        "brandName": "Raymond",
+        "desc": "Women A-line Multicolor Dress",
+        "price": 869,
+        "id": "40"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/6/4/t/s-aa-0108-queen-1-aayu-original-imag3ghzaycegzht-bb.jpeg?q=70",
+        "name": "NUMERO UNO",
+        "brandName": "Diesel",
+        "desc": "Women Maxi Maroon Dress",
+        "price": 699,
+        "id": "41"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/r/8/x/s-298tk6002-selvia-original-imagbwpf2ms7ngvc-bb.jpeg?q=70",
+        "name": "LEE",
+        "brandName": "Diesel",
+        "desc": "Women Fit and Flare Maroon Dress",
+        "price": 959,
+        "id": "42"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/m/j/z/m-266tk6026-selvia-original-imaghqwvsvt7ueyg.jpeg?q=70",
+        "name": "MOONVELLY",
+        "brandName": "Diesel",
+        "desc": "Women Bodycon Pink Dress",
+        "price": 339,
+        "id": "43"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/f/r/6/xl-shopcy-3001-rudrakriti-original-imag73mam9zh9yjh-bb.jpeg?q=70",
+        "name": "U.S. POLO ASSN.",
+        "brandName": "Diesel",
+        "desc": "Women Maxi Purple Dress",
+        "price": 879,
+        "id": "44"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kv9urgw0/dress/1/j/s/s-ttj6005886-tokyo-talkies-original-imag87whvrhyqyc8.jpeg?q=70",
+        "name": "Chrome & Coral",
+        "brandName": "Diesel",
+        "desc": "Women A-line Green Dress",
+        "price": 399,
+        "id": "45"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/l01blow0/dress/s/w/x/m-gr6233-white-harpa-original-imagbwnsasnruznj.jpeg?q=70",
+        "name": "Roadster",
+        "brandName": "Diesel",
+        "desc": "Women Ruffled White Dress",
+        "price": 569,
+        "id": "46"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/z/g/h/xxl-sfdrss1769-sassafras-original-imafpyzfqtncc78z-bb.jpeg?q=70",
+        "name": "Supernova Inc.",
+        "brandName": "Diesel",
+        "desc": "Women Maxi Red Dress",
+        "price": 499,
+        "id": "47"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/z/7/m/xs-dr50c-metro-fashion-original-imafwbqxsqdkeagf-bb.jpeg?q=70",
+        "name": "Vitaan",
+        "brandName": "Diesel",
+        "desc": "Women Maxi Black, White Dress",
+        "price": 379,
+        "id": "48"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kumzpu80/dress/j/v/v/m-ep6247-rare-original-imag7ps8auhhk6t2.jpeg?q=70",
+        "name": "AVOLT",
+        "brandName": "Diesel",
+        "desc": "Women Fit and Flare Black Dress",
+        "price": 489,
+        "id": "49"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/kflftzk0/dress/n/w/w/l-sfdrss1586-sassafras-original-imafwyxtdbtkczgs.jpeg?q=70",
+        "name": "KIZAAR",
+        "brandName": "Diesel",
+        "desc": "Women Sheath Black Dress",
+        "price": 359,
+        "id": "50"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/jua4djk0/dress/w/u/z/m-bhavya-115-absorbing-original-imaffgfftzhgx2ns.jpeg?q=70",
+        "name": "GYRFALCON",
+        "brandName": "Calvin Klein",
+        "desc": "Women Asymmetric Multicolor Dress",
+        "price": 299,
+        "id": "51"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/k3dc7m80/dress/t/r/7/m-ttj6004100-tokyo-talkies-original-imafmgcqfnsjgnsq.jpeg?q=70",
+        "name": "Plus91",
+        "brandName": "Calvin Klein",
+        "desc": "Women Maxi Maroon Dress",
+        "price": 479,
+        "id": "52"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/l/u/s/s-151tkr2814-selvia-original-imagyfmzkzunurzh-bb.jpeg?q=70",
+        "name": "Lzard",
+        "brandName": "Calvin Klein",
+        "desc": "Women Bodycon Brown Dress",
+        "price": 569,
+        "id": "53"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/t/y/i/xs-602-sheetal-associates-original-imafzkcsheznfczq-bb.jpeg?q=70",
+        "name": "ARROW",
+        "brandName": "Calvin Klein",
+        "desc": "Women Fit and Flare Green Dress",
+        "price": 999,
+        "id": "54"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/p/8/l/xl-gbk1277-god-bless-original-imag4fx46sgqvehd-bb.jpeg?q=70",
+        "name": "Wrangler",
+        "brandName": "Calvin Klein",
+        "desc": "Women Fit and Flare Blue Dress",
+        "price": 989,
+        "id": "55"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/w/v/n/m-bhavya-204-absorbing-original-imafzr6ugbecr8xy-bb.jpeg?q=70",
+        "name": "FOSEN",
+        "brandName": "Calvin Klein",
+        "desc": "Women Asymmetric Multicolor Dress",
+        "price": 369,
+        "id": "56"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/b/q/o/m-dress-05-iuga-original-imaghyp53nbyners.jpeg?q=70",
+        "name": "Dais",
+        "brandName": "Calvin Klein",
+        "desc": "Women Bodycon Black Dress",
+        "price": 424,
+        "id": "57"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/knyxqq80/dress/u/k/g/m-gr6223-blue-harpa-original-imag2jg8fhgze5e6.jpeg?q=70",
+        "name": "YUNEK",
+        "brandName": "Calvin Klein",
+        "desc": "Women A-line Blue Dress",
+        "price": 669,
+        "id": "58"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/7/b/9/s-sfdrss1666-sassafras-original-imafwysdhzzejzsk-bb.jpeg?q=70",
+        "name": "KETCH",
+        "brandName": "Calvin Klein",
+        "desc": "Women Fit and Flare Black Dress",
+        "price": 649,
+        "id": "59"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/1/v/i/l-flower-gown-fashion2wear-original-imagj73kh9gjdvgd.jpeg?q=70",
+        "name": "Urbano Fashion",
+        "brandName": "Calvin Klein",
+        "desc": "Women Fit and Flare Light Blue Dress",
+        "price": 849,
+        "id": "60"
+    }
+]

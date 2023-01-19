@@ -40,17 +40,20 @@ body {
 }
 #product-container > div{
     background-color: white;  
-    height: 520px;
+    height: 500px;
 }
+
 
 #product-container > div:hover{
     box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+
 }
 
 #product-container > div > img{
     width: 100%;
     height: 300px;
 }
+
 #product-container > div > img:hover{
     height: 290px;
 }
