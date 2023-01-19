@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <style>
+        div {
+            margin: auto;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+            width: 37%;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+
+
+        <p>User name</p>
+        <input id="username" type="text" placeholder="user name enter-test1" />
+
+        <p>Password</p>
+        <input id="Password" type="text" placeholder="Password enter-test@1" />
+
+        <button id="yes">LOGIN</button>
+    </div>
+</body>
+</html>
+<script>
+  
+document.querySelector("#yes").addEventListener("click",goa)
+
+function goa(){
+    let x=document.querySelector("#username").value
+
+let y=document.querySelector("#Password").value
+if(x=="test1" && y=="test@1" ){
+    alert("login successful")
+    window.location.href="adminhome.html"
+}else{alert("wrong credentials")}
+}
+
+
+</script>
