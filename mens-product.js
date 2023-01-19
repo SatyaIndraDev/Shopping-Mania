@@ -122,15 +122,15 @@ pricedsc.addEventListener("click",()=>{
         let name=document.createElement("h2")
         name.innerText=element.name;
         let price=document.createElement("h3")
-        price.innerText= "$"+element.price;
-        let brandname=document.createElement("p")
-        brandname.innerText=element.brandName
+        price.innerText= "₹"+element.price;
+        // let brandname=document.createElement("p")
+        // brandname.innerText=element.brandName
         let desc=document.createElement("p")
         desc.innerText=element.desc;
         let cartbtn=document.createElement("button")
         cartbtn.innerText="Add To Cart"
 
-            card.append(image,name,brandname,desc,price,cartbtn)
+            card.append(image,name,desc,price,cartbtn)
             container.append(card);
         });
     }

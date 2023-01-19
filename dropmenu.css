@@ -1,4 +1,7 @@
-
+.main-wrapper{
+    width: 110%;
+    height: 30px;
+}
 .main-wrapper a{
     color: #000;
     text-decoration: none;
@@ -8,21 +11,16 @@
 }
 .navbar{
     background: whitesmoke;
-    padding: 5px;
-    position: fixed;
-    top: 0;
+    padding-top: 10px;
+   position:static;
     left: 0;
     width: 100%;
+    
     display: flex;
     flex-direction: column;
-    z-index: 10;
-    flex-wrap: wrap;
+    /* z-index: 10; */
+    /* flex-wrap: wrap; */
     align-items: center;
-}
-.brand-and-icon{
-    display: flex;
-    justify-content: space-between;
-    padding: 0px;
 }
 .navbar-toggler{
     display: block;
