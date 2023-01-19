@@ -1,0 +1,115 @@
+@media  screen and (min-width:601px) and (max-width:768px){
+
+    body
+    {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .bckgrnd
+    {
+        /* border: solid; */
+        width: 90%;
+        height: 600px;
+        margin: auto;
+        margin-top: 50px;
+        text-align: center;
+        background: rgb(247, 245, 245);
+    }
+    .container1
+    {
+        /* border: solid; */
+        width: 70%;
+        height: 15%;
+        margin: auto;
+        margin-top: 20px;
+        text-align: center;
+        box-sizing: border-box;
+        font-size: 25px;
+        font-weight: 700;
+        padding: 30px;
+        color: rgb(34, 34, 104);
+        background: rgb(246, 250, 248);
+    }
+    .container2
+    {
+        /* border: solid; */
+        width: 90%;
+        height: 50%;
+        margin: auto;
+        background-color: white;
+        text-align: left;
+        box-sizing: border-box;
+        padding: 10px 20px;
+    }
+    .div
+    {
+        width: 100%;
+    
+        height: 30px;
+        background: rgb(247, 245, 245);
+        padding: 4px 10px;
+        box-sizing: border-box;
+    }
+    p
+    {
+        line-height: 5px;
+    }
+
+
+
+
+
+}
+@media  screen and (min-width:400px) and  (max-width:600px){
+    .bckgrnd
+    {
+        /* border: solid; */
+        width: 90%;
+        height: 600px;
+        margin: auto;
+        margin-top: 50px;
+        text-align: center;
+        background: rgb(247, 245, 245);
+    }
+    .container1
+    {
+        /* border: solid; */
+        width: 70%;
+        height: 15%;
+        margin: auto;
+        /* margin-top: 20px; */
+        text-align: center;
+        box-sizing: border-box;
+        font-size: 25px;
+        font-weight: 700;
+        /* padding: 30px; */
+        color: rgb(34, 34, 104);
+        background: rgb(246, 250, 248);
+    }
+    .container2
+    {
+        /* b/order: solid; */
+        width: 90%;
+        height: 60%;
+        margin: auto;
+        background-color: white;
+        text-align: left;
+        box-sizing: border-box;
+        padding: 10px 20px;
+    }
+
+    .div
+    {
+        width: 100%;
+        /* border: solid; */
+        height: 40px;
+        background: rgb(247, 245, 245);
+        /* padding: 4px 10px; */
+        box-sizing: border-box;
+    }
+    p
+    {
+        line-height: 5px;
+    }
+}
