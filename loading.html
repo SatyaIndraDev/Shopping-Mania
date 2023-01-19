@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processing Payment</title>
+    
+</head>
+
+<style>
+    .style
+    {
+        width: 90%;
+        height: 500px;
+        /* border: 1px solid black; */
+        margin: auto;
+        margin-top: 50px;
+        align-content: center;
+        box-sizing: border-box;
+        padding: 100px;
+        background-color: #dbdde0;
+    }
+    .loading
+    {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+    .loading--full-height
+    {
+        align-items: center;
+        height: 100%;
+    }
+    .font
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        font-weight: 600;
+        justify-content: center;
+        text-align: center;
+    }
+    .loading::after
+    {
+        content: "";
+        width: 30px;
+        height: 30px;
+        border: 10px solid #b5b5b8;
+        border-top-color: #2874f0;
+        border-radius: 50%;
+        animation: loading 1s linear infinite;
+    }
+
+    @keyframes loading {
+        to {
+            transform: rotate(360deg);
+        }
+    }
+    @media  screen and (min-width:601px) and (max-width:768px){
+
+    }
+    @media  screen and (min-width:400px) and  (max-width:600px){
+       
+        .style
+    {
+        width: 90%;
+        height: 500px;
+        border: 1px solid black;
+        margin: auto;
+        /* margin-top: 100px; */
+        align-content: center;
+        box-sizing: border-box;
+        padding: 100px;
+    }
+    }
+</style>
+
+<body>
+    <div class="style">
+        <p class="font">Please wait, your payment is being processed...</p>
+        <div class="loading"></div>
+    </div>
+</body>
+</html>
+
+<script>
+
+
+
+    function loadingPage1()
+    {
+        setTimeout(() =>
+        {
+            window.location.assign("payment.html")
+        }, 3000);
+    }
+
+    loadingPage1();
+</script>
