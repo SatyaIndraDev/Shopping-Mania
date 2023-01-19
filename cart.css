@@ -1,7 +1,7 @@
-*{
+body{
     font-family:Arial, Helvetica, sans-serif;
     /* background: b; */
-    /* background-color: #f1f3f6; */
+    background-color: #f1f3f6;
 }
 .parent{
     display: flex;
@@ -11,14 +11,17 @@
     margin: auto;
     justify-content: space-between;
     /* padding: 20px; */
+    background-color: #f1f3f6;
    
 }
 .child1{
     /* border:solid; */
     width: 60%;
+     /* background-color: white; */
 
 }
 .card{
+     background-color: white;
     /* border: solid red; */
     /* height: 30%; */
     display: flex;
@@ -39,6 +42,7 @@
     /* margin-right: 30px; */
 }
 .address{
+     background-color: white;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -74,7 +78,7 @@
     width: 25%;
     padding: 15px;
     /* margin-left: 10px ; */
-    
+     background-color: white;
 }
 .price{
     display: flex;

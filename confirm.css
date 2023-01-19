@@ -1,0 +1,122 @@
+#parent{
+    /* border: solid; */
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    width:55%;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+   
+
+}
+body{
+    background-color: #f1f3f6;
+}
+#child1{
+    /* border: red solid; */
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    background-color: #2874f0;
+    padding: 5px;
+    color: white;
+}
+#address{
+    display: flex;
+    /* border: blue solid; */
+    justify-content: space-between;
+}
+#thank{
+    border-right:1px solid;
+    width: 50%;
+    margin: auto;
+}
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    /* background: b; */
+    /* background-color: #f1f3f6; */
+}
+#thank button{
+    width: 50%;
+    height: 40px;
+    background-color: #2874f0;
+    border:1px #2874f0;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+#details{
+    margin: auto;
+}
+
+@media  screen and (min-width:601px) and (max-width:768px){
+    #parent{
+        /* border: solid; */
+        box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+        width:90%;
+        margin: auto;
+        
+       
+    
+    }
+
+
+
+
+}
+@media  screen and (min-width:400px) and  (max-width:600px){
+    #parent{
+        /* border: solid; */
+        box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+        width:90%;
+        margin: auto;
+        
+       
+    
+    }
+    #child1{
+        /* border: red solid; */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 40px;
+        background-color: #2874f0;
+        padding: 5px;
+        color: white;
+    }
+    #address{
+        display: flex;
+        flex-direction: column;
+        /* border: blue solid; */
+        justify-content: space-between;
+    }
+    #thank{
+        border-bottom:1px solid;
+        border-right:0px solid;
+        width: 90%;
+        margin: auto;
+
+    }
+    *{
+        font-family:Arial, Helvetica, sans-serif;
+        /* background: b; */
+        /* background-color: #f1f3f6; */
+    }
+    #thank button{
+        width: 50%;
+        height: 40px;
+        background-color: #2874f0;
+        
+        border:1px #2874f0;
+        color: white;
+        font-weight: 600;
+        cursor: pointer;
+        margin-bottom: 20px;
+    }
+    #details{
+        margin: auto;
+        width: 90%;
+        
+    }
+
+
+}
