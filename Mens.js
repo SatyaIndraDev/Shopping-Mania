@@ -112,7 +112,7 @@ pricedsc.addEventListener("click",()=>{
     .catch((error)=>{
         console.log(error)
     })
-
+let temp=[];
     function displayproducts(data){
         container.innerHTML=null
         data.forEach(element => {
@@ -129,7 +129,30 @@ pricedsc.addEventListener("click",()=>{
         desc.innerText=element.desc;
         let cartbtn=document.createElement("button")
         cartbtn.innerText="Add To Cart"
+        cartbtn.addEventListener("click",()=>{
+// cartdata.push(...element,quantity:1)
+// localStorage.setItem("cart",JSON.stringify(cartdata));
+let cartdata=JSON.parse(localStorage.getItem("cart")) || [];
 
+let alreadypresent=false;
+for(let i=0;i<cartdata.length;i++){
+  if(cartdata[i].id===element.id){
+    alreadypresent=true;
+  }
+}
+if(alreadypresent===true){
+  alert("Item already in cart ")
+}else{
+  temp.push({...element,quantity:1});
+localStorage.setItem("cart",JSON.stringify(temp));
+alert("item successfully added")
+}
+
+
+
+
+
+        })
             card.append(image,name,brandname,desc,price,cartbtn)
             container.append(card);
         });

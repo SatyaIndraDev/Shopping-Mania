@@ -98,12 +98,12 @@ width: 100%;
 
 
     <!------------Parent div, will contain 2 divs and flex/grclass property------------------------>
-    <div class="parent">
+    <div id="parent">
 
 
         <!------------------Div1, product details--------------------->
 
-        <div class="child1">
+        <div id="child1">
 
             <div class="address">
                 
@@ -131,9 +131,9 @@ width: 100%;
                 
             </div>
             <br>
-            <div class="address">
+            <div  class="address">
                 
-                <div>
+                <div id="ordersum">
                     <p><span class="num">3</span> Order Summary ✅</p>
                     
                 </div>
@@ -205,34 +205,30 @@ width: 100%;
     <div class="child22">
 
         <div class="price">
-            <p>Price (<span class="pricequant"></span>) </p>
-            <p id="itemprice">100</p>
+            <p>Price (<span id="pricequant"></span> items) </p>
+            <p id="itemprice"></p>
             <!-- price of product -->
         </div>
 
-        <div class="discount">
-            <p>Discount </p>
-            <p id="discountprice">40%</p>
-            <!-- discount of product -->
-        </div>
+        
 
         <div class="delcharge">
             <p>Delivery Charges </p>
-            <p>₹40 </p>
+            <p>$40 </p>
             <!-- delivery charges product -->
         </div>
         <hr>
 
         <div class="totalamount">
-            <p>Total Amount </p>
-            <p id="totalprice">100</p>
+            <p>Total Payable </p>
+            <p id="totalprice"></p>
             <!-- price of product -->
         </div>
 
         <hr>
 
 
-        <p style="color:#388e3c">You will save <span class="discprice" >100</span> on this order</p>
+        <p style="color:#388e3c">You will save <span id="discprice" >100</span> on this order</p>
 
         <div class="security"><img style="margin-top: -5px;height: 80%;" src="https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/shield_b33c0c.svg" alt="">Safe and Secure Payments.Easy returns.100% Authentic products.</div>
 
@@ -279,3 +275,5 @@ width: 100%;
 </body>
 <script src="order.js"></script>
 </html>
+
+

@@ -3,8 +3,20 @@
         display: flex;
         flex-direction: column;
     }
+    .cardwidth{
+        width: 200%;
+        /* background-color: #CBCA3A; */
+    }
     body{
         background-color: #f1f3f6;
+    }
+    #address{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        /* border: red solid; */
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+        /* padding: 10px; */
     }
     .addres{
         background-color: #2874f0;
@@ -144,7 +156,7 @@
     {
         width: 215px;
         height: 60px;
-        background-color: #fb641b;
+        /* background-color: #fb641b; */
         color: white;
         margin-top: -6px;
         display: flex;
@@ -152,6 +164,47 @@
         box-sizing: border-box;
         padding-left: 55px;
     }
+    .pay_btn {
+        padding: 1.1em 2em;
+        background: none;
+        border: 2px solid #fff;
+        font-size: 15px;
+        color: #131313;
+        cursor: pointer;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s;
+        border-radius: 12px;
+        background-color: #ecd448;
+        font-weight: bolder;
+        box-shadow: 0 2px 0 2px #000;
+       }
+       
+       .pay_btn:before {
+        content: "";
+        position: absolute;
+        width: 100px;
+        height: 120%;
+        background-color: #ff6700;
+        top: 50%;
+        transform: skewX(30deg) translate(-150%, -50%);
+        transition: all 0.5s;
+       }
+       
+       .pay_btn:hover {
+        background-color: #2874f0;
+        color: #fff;
+        box-shadow: 0 2px 0 2px #2874f0;
+       }
+       
+       .pay_btn:hover::before {
+        transform: skewX(30deg) translate(150%, -50%);
+        transition-delay: 0.1s;
+       }
+       
+       .pay_btn:active {
+        transform: scale(0.9);
+       }
 
     @media  screen and (min-width:601px) and (max-width:768px){
 
