@@ -11,6 +11,7 @@ This project is a clone of the popular e-commerce website, Myntra. It functions 
 ## Features
 
 - Multi-user Access
+
 - User profiles for buying and selling products
 - Categories for organizing products
 - Approving order, checking details of user and product on admin page
@@ -33,7 +34,7 @@ This project is a clone of the popular e-commerce website, Myntra. It functions 
 
 ## Demo 
 - Landing Page!
-
+![Screenshot (92)](https://github.com/SatyaIndraDev/daily-wrist-2042/assets/112754841/2272ff26-5a9f-49c9-8108-3bd47f222a29)
 ![Screenshot (93)](https://github.com/SatyaIndraDev/daily-wrist-2042/assets/112754841/279d2a31-2557-4bc3-a120-86f638777f8c)
 
 
