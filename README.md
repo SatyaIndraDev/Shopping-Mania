@@ -37,7 +37,6 @@ This project is a clone of the popular e-commerce website, Myntra. It functions 
 ![Screenshot (93)](https://github.com/SatyaIndraDev/daily-wrist-2042/assets/112754841/279d2a31-2557-4bc3-a120-86f638777f8c)
 
 
-![Uploading Screenshot (93).png…]()
 
 ![Screenshot (94)](https://github.com/SatyaIndraDev/daily-wrist-2042/assets/112754841/3375b69d-9c9b-424f-af5f-df2a9b278b06)
 
